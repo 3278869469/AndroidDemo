@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MutiAdapter</string>
+    <item name="Tag_APP" type="id"></item>
+    <item name="Tag_Book" type="id"></item>
+</resources>
